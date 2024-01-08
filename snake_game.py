@@ -2,8 +2,8 @@ import pygame
 import random
 pygame.init()
 clock = pygame.time.Clock()
-width = 1000
-height = 1000
+width = 800
+height = 800
 screen = pygame.display.set_mode((width,height))
 gameOver = True
 green = (0,255,0)
